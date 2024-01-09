@@ -64,7 +64,7 @@ This is a project to imporve `Vue.js` skills
 
 ### Github Pull Reqeust Convention
 
-- If you need to add or modify a new code such as modification or function addition, create a `branch` and make a `pull request`. In the `pull request`, the reviewer is always @kim-sung-jun.
+- If you need to add or modify a new code such as modification or function addition, create a `branch` and make a `pull request`. In the `pull request`, the reviewer is always @kim-song-jun
 
 - When requesting `Pull reqeust`, write markdown according to the template form.
 
