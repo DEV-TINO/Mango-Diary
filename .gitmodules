@@ -3,5 +3,5 @@
     url = git@github.com:DEV-TINO/Mango-Diary-JY.git
 
 [submodule "Mango-Diary-MJ"]
-   path = Mango-Diary-MJ
-   url = git@github.com:DEV-TINO/Mango-Diary-MJ.git
+    path = Mango-Diary-MJ
+    url = git@github.com:DEV-TINO/Mango-Diary-MJ.git
