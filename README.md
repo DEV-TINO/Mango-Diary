@@ -11,6 +11,33 @@ This is a project to imporve `Vue.js` skills
 
 - [API Docs in github wiki](https://github.com/DEV-TINO/Mango-Diary/wiki/%08API-Docs)
 
+# Schedule
+
+### Week 1
+
+ - [x] Create project
+ - [x] Make UI prototype for all page
+
+### Week 2
+
+ - [ ] Create common components for UI
+ - [ ] Make a Main Page calender UI, Based on the Current Month
+ - [ ] Make a Writing Page
+ - [ ] Add image upload feature
+
+### Week 3
+
+ - [ ] Make a Statistic Page
+ - [ ] Add logic to communicate with the BE server
+   - [ ] Send request with actual server
+   - [ ] Resive response with actual server
+ - [ ] E2E test
+
+### Week 4
+
+ - [ ] Deploying with AWS EC2
+ - [ ] Try Docker
+
 # Convention
 
 ### Motivation
@@ -101,29 +128,3 @@ This is a project to imporve `Vue.js` skills
 
 
 
-# Schedule
-
-### Week 1
-
- - [x] Create project
- - [x] Make UI prototype for all page
-
-### Week 2
-
- - [ ] Create common components for UI
- - [ ] Make a Main Page calender UI, Based on the Current Month
- - [ ] Make a Writing Page
- - [ ] Add image upload feature
-
-### Week 3
-
- - [ ] Make a Statistic Page
- - [ ] Add logic to communicate with the BE server
-   - [ ] Send request with actual server
-   - [ ] Resive response with actual server
- - [ ] E2E test
-
-### Week 4
-
- - [ ] Deploying with AWS EC2
- - [ ] Try Docker
