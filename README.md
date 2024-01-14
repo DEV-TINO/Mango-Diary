@@ -45,10 +45,11 @@ This is a project to imporve `Vue.js` skills
 - As code get complicated, documentation is need for the better development environment
 
   - To understand a function, a developer needs to read the every lines of function to guess what it does.
-
-  > **"Code is more often read than written"**
-  >
-  > *- Guido van Rossum*
+ 
+    >
+    > **"Code is more often read than written"**
+    >
+    > *- Guido van Rossum*
 
 ### Naming Convnetion
 
