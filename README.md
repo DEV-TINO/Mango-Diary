@@ -101,8 +101,8 @@ This is a project to imporve `Vue.js` skills
 
 ### Week 1
 
- - [ ] Create project
- - [ ] Make UI prototype for all page
+ - [x] Create project
+ - [x] Make UI prototype for all page
 
 ### Week 2
 
