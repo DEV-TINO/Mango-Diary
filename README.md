@@ -7,6 +7,10 @@ This is a project to imporve `Vue.js` skills
  - Leader: Sungjun
  - Member: Minji, Jungyun
 
+# API Docs
+
+- [API Docs in github wiki](https://github.com/DEV-TINO/Mango-Diary/wiki/%08API-Docs)
+
 # Convention
 
 ### Motivation
