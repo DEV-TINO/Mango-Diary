@@ -20,10 +20,10 @@ This is a project to imporve `Vue.js` skills
 
 ### Week 2
 
- - [ ] Create common components for UI
- - [ ] Make a Main Page calender UI, Based on the Current Month
- - [ ] Make a Writing Page
- - [ ] Add image upload feature
+ - [x] Create common components for UI
+ - [x] Make a Main Page calender UI, Based on the Current Month
+ - [x] Make a Writing Page
+ - [x] Add image upload feature
 
 ### Week 3
 
