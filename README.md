@@ -27,16 +27,16 @@ This is a project to imporve `Vue.js` skills
 
 ### Week 3
 
- - [ ] Make a Statistic Page
- - [ ] Add logic to communicate with the BE server
-   - [ ] Send request with actual server
-   - [ ] Resive response with actual server
- - [ ] E2E test
+ - [x] Make a Statistic Page
+ - [x] Add logic to communicate with the BE server
+   - [x] Send request with actual server
+   - [x] Resive response with actual server
+ - [x] E2E test
 
 ### Week 4
 
- - [ ] Deploying with AWS EC2
- - [ ] Try Docker
+ - [x] Deploying with AWS EC2
+ - [x] Try Docker
 
 # Convention
 
